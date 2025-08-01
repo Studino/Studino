@@ -7,4 +7,4 @@ Sou estudante de ADS e nesse perfil, pretendo expor meus projetos, ideias e estu
   - Redes Sociais: [Linkedin](https://www.linkedin.com/in/arthur-vieira-lopes-bb4650263/) , [Instagram](https://www.instagram.com/arthur_vlopes/)
 
 
-  [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,latex,html)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,cs,latex,html)](https://skillicons.dev)
